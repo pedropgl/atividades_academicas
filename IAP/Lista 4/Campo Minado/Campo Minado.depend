@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627521559 source:c:\users\pedro\desktop\faculdade\1º periodo\iap\lista 4\campo minado\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
